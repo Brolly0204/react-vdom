@@ -1,0 +1,10 @@
+.list {
+  list-style: none;
+}
+
+.list .item {
+  background-color: pink;
+  color: #fff;
+  margin-top: 5px;
+  text-align: center;
+}
